@@ -1,0 +1,42 @@
+body {
+  margin-right: 50px;
+  margin-left: 50px;
+  background-color:ghostwhite;
+}
+p{
+  text-align:center;
+  margin:50px;
+  font-size:19px;
+  border: 5px;
+  border-color:black;
+}
+img{
+  margin-left:auto;
+  margin-right:auto;
+  width:500px;
+  display: block;
+}
+.many {
+  margin-left: auto;
+  margin-right: auto;
+  width:700px;
+  height:520px;
+}
+.blocks {
+  width: 400px;
+  height:200px;
+}
+.morgus {
+  width: 400px;
+  height: 250px;
+}
+.title{
+  font-family:Verdana, sans-serif;
+  font-size:50px;
+}
+.man{
+  height:530px;
+  width:580px;
+}
+
+  
